@@ -1,0 +1,6 @@
+[submodule "VeroTestBackend"]
+	path = VeroTestBackend
+	url = git@github.com:andresOchoaHernandez/VeroTestBackend.git
+[submodule "VeroTestFrontend"]
+	path = VeroTestFrontend
+	url = git@github.com:andresOchoaHernandez/VeroTestFrontend.git
